@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/4healthyapp/static/css/main.6d553653.css",
-    "main.js": "/4healthyapp/static/js/main.388a0e2b.js",
+    "main.css": "/4healthyapp/static/css/main.5794ba4c.css",
+    "main.js": "/4healthyapp/static/js/main.2491b67e.js",
     "static/js/787.1878dead.chunk.js": "/4healthyapp/static/js/787.1878dead.chunk.js",
     "static/media/welcome.svg": "/4healthyapp/static/media/welcome.3ac6e3b7e4b3f0c7f03c35f1db213d5e.svg",
     "static/media/clock.svg": "/4healthyapp/static/media/clock.9e9ab7cc1d6781f536d1757ebae009ee.svg",
     "static/media/logo.svg": "/4healthyapp/static/media/logo.1e53fa3f25ffaee03a0b68e0b90116f6.svg",
     "index.html": "/4healthyapp/index.html",
-    "main.6d553653.css.map": "/4healthyapp/static/css/main.6d553653.css.map",
-    "main.388a0e2b.js.map": "/4healthyapp/static/js/main.388a0e2b.js.map",
+    "main.5794ba4c.css.map": "/4healthyapp/static/css/main.5794ba4c.css.map",
+    "main.2491b67e.js.map": "/4healthyapp/static/js/main.2491b67e.js.map",
     "787.1878dead.chunk.js.map": "/4healthyapp/static/js/787.1878dead.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d553653.css",
-    "static/js/main.388a0e2b.js"
+    "static/css/main.5794ba4c.css",
+    "static/js/main.2491b67e.js"
   ]
 }
