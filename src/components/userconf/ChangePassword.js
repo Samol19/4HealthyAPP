@@ -70,7 +70,7 @@ export const ChangePassword = () => {
         event.preventDefault();
   //PROBAMOS CON EMAIL TEST
         if (canIn) {
-            axios.put('http://localhost:3000/updatepassword', { id:"1", password:password })
+            axios.put('https://api-library-v1.onrender.com/updatepassword', { id:"1", password:password })
             
             .then(response => {
               alert("La Solicitud de cambio fue exitosa, puede volver al inicio");
